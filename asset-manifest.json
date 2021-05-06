@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/solution2/static/css/main.0deb06a3.chunk.css",
+    "main.js": "/solution2/static/js/main.ba5917f0.chunk.js",
+    "main.js.map": "/solution2/static/js/main.ba5917f0.chunk.js.map",
+    "runtime-main.js": "/solution2/static/js/runtime-main.ed2a39cd.js",
+    "runtime-main.js.map": "/solution2/static/js/runtime-main.ed2a39cd.js.map",
+    "static/js/2.77c1abc1.chunk.js": "/solution2/static/js/2.77c1abc1.chunk.js",
+    "static/js/2.77c1abc1.chunk.js.map": "/solution2/static/js/2.77c1abc1.chunk.js.map",
+    "static/js/3.8971549c.chunk.js": "/solution2/static/js/3.8971549c.chunk.js",
+    "static/js/3.8971549c.chunk.js.map": "/solution2/static/js/3.8971549c.chunk.js.map",
+    "index.html": "/solution2/index.html",
+    "static/css/main.0deb06a3.chunk.css.map": "/solution2/static/css/main.0deb06a3.chunk.css.map",
+    "static/js/2.77c1abc1.chunk.js.LICENSE.txt": "/solution2/static/js/2.77c1abc1.chunk.js.LICENSE.txt",
+    "static/media/laptop1.fc365c1a.jpg": "/solution2/static/media/laptop1.fc365c1a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed2a39cd.js",
+    "static/js/2.77c1abc1.chunk.js",
+    "static/css/main.0deb06a3.chunk.css",
+    "static/js/main.ba5917f0.chunk.js"
+  ]
+}
